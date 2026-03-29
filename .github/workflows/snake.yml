@@ -3,11 +3,13 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *" 
-  workflow_dispatch: # This lets you run it manually
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Generate Snake SVG
         uses: Platane/snk@v3
@@ -17,7 +19,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23c2abe4&color_dots=%23161b22,%234b3869,%23664c8f,%238666be,%23c2abe4
 
       - name: Push to Output Branch
-        uses: crazy-max/githubaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
