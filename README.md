@@ -3,26 +3,40 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://instagram.com/its.jain_2" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/harshil-jain-924757272" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jainharshil605@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C2ABE4&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+with+AI+🤖;Neural+Network+Architect+%26+ML+Explorer+🧠;Crafting+Next-Gen+Mobile+Experiences+📱;Scaling+Ideas+with+Full+Stack+Code+🚀;Transforming+Data+into+Intelligence+🌐" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JA-IN/JA-IN/output/github-contribution-grid-snake-dark.svg" alt="Lilac Snake" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JA-IN&theme=radical" />
 </p>
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💫 About Me
 <img align="right" width="350" src="https://cdni.iconscout.com/illustration/premium/thumb/male-developer-programming-on-laptop-illustration-download-in-svg-png-gif-file-formats--working-coder-professional-pack-network-communication-illustrations-4712015.png" />
 
 * 🔭 **Currently working on:** A real-time collaborative VS Code extension and **AdaptiveLearning** (AI).
-* 🌱 **Exploring:** Generative AI architectures, ML pipelines, and Next.js optimization.
+* 🌱 **Exploring:** Advanced Generative AI architectures, ML pipelines, and Next.js optimization.
 * 👯 **Collaborations:** Full-stack apps, Open-source AI, and Hackathons.
 * 💬 **Ask me about:** `C++`, `Python`, `LLMs`, and `Automata Theory`.
 * ⚡ **Fun fact:** Massive cricket fan and a certified Potterhead! ⚡🏏
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💻 Tech Stack
 
@@ -35,7 +49,7 @@
 ### ⚙️ Backend & Database
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -47,3 +61,5 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
