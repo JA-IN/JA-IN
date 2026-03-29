@@ -58,8 +58,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JA-IN&theme=radical"/>
 </p>
 
+## Projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JA-IN&repo=AdaptiveLearning&theme=radical" />
+</p>
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="I"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/JA-IN?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FKolkata" />
+</p>
