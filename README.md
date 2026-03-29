@@ -1,8 +1,12 @@
 # 💫 About Me:
 🔭 I’m currently working on: A real-time collaborative VS Code extension for seamless remote code sharing, and my AI-focused project, AdaptiveLearning.
+
 🌱 I’m currently learning / exploring: Advanced Generative AI architectures, Machine Learning pipelines, and Next.js optimization.
+
 👯 I’m looking to collaborate on: Full-stack web applications, open-source AI projects, and hackathons.
+
 💬 Ask me about: C++, Python, React, Data Structures & Algorithms, and Formal Language Automata Theory.
+
 ⚡ Fun fact: I’m a massive cricket fan and a certified Potterhead!
 
 
