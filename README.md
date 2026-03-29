@@ -58,11 +58,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JA-IN&theme=radical"/>
 </p>
 
-## Projects
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JA-IN&theme=radical" />
-</p>
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="I"/>
 </p>
