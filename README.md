@@ -10,7 +10,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C2ABE4&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+with+AI+🤖;Neural+Network+Architect+%26+ML+Explorer+🧠;Crafting+Next-Gen+Mobile+Experiences+📱;Scaling+Ideas+with+Full+Stack+Code+🚀;Transforming+Data+into+Intelligence+🌐" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C2ABE4&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+with+AI+🤖;Neural+Network+Architect+%26+ML+Explorer+🧠;Crafting+Next-Gen+Mobile+Experiences+📱;Scaling+Ideas+with+Full+Stack+Code+🚀;Transforming+Data+into+Intelligence+🌐" alt="I" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -54,12 +54,12 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JA-IN&layout=compact&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=JA-IN&show_icons=true&theme=radical" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JA-IN&theme=radical" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JA-IN&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JA-IN&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="I"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
