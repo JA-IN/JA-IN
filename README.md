@@ -60,7 +60,7 @@
 
 ## Projects
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JA-IN&repo=AdaptiveLearning&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JA-IN&theme=radical" />
 </p>
 
 <p align="center">
@@ -68,7 +68,3 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/JA-IN?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FKolkata" />
-</p>
